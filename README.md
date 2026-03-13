@@ -13,6 +13,7 @@ Tasarım Aracı: Draw.io (UML Sınıf Diyagramı hazırlığı için)
 [Tarif Ekleme İşlemi](tarifeklendi-2.png)
 
 [Tarif Ekleme İşlemi Sonucu](sonuc-3.png)
+
 Teknik Özellikler & OOP Yaklaşımı
 Projede yazılım mühendisliğinin temel taşlarından olan şu kavramlar aktif olarak kullanılmıştır:
 Kalıtım (Inheritance): VeganTarif, Atistirmalik ve diğer alt sınıflar, temel Tarif sınıfından türetilerek kod tekrarı önlenmiş ve yapısal bir hiyerarşi kurulmuştur.
