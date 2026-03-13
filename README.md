@@ -3,7 +3,7 @@ Bu proje, İnönü Üniversitesi Bilgisayar Mühendisliği  eğitim sürecimde g
 
 Proje Hakkında
 Uygulama; kullanıcıların Ana Yemek, Tatlı, Atıştırmalık ve Vegan gibi farklı kategorilerde yemek tarifleri eklemesine ve bu tarifleri listeleyebilmesine olanak tanır. Mühendislik yaklaşımı olarak, kodlama aşamasına geçilmeden önce projenin yazılım mimarisi bir UML Sınıf Diyagramı ile planlanmıştır.
-![Uygulama Ana Ekranı](Ekran_goruntusu_2026-03-13_032320.jpg)
+![Uygulama Ana Ekranı](malzemegir-1.png)
 
  Kullanılan Teknolojiler
 Programlama Dili: Python 
